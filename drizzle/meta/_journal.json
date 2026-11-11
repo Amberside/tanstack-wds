@@ -1,0 +1,13 @@
+{
+  "version": "1",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1794356527286,
+      "tag": "0000_flippant_lake",
+      "breakpoints": true
+    }
+  ]
+}
